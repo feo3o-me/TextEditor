@@ -1,0 +1,2 @@
+# TextEditor
+Text editor made in python
