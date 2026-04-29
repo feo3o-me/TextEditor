@@ -54,6 +54,7 @@ def main():
     def font_selector(text_editor):
         new_window = tk.Tk()
         new_window.geometry("320x240")
+        new_window.title("Fonte")
 
         ttk.Label(new_window, text = "Selecione a fonte: ").grid(row = 2, column = 1, padx=20, pady=10)
 
